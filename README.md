@@ -1,6 +1,7 @@
 # book-tracker
 
 A site to keep track of what you read, offline.
+The source code and hosted website is for me personally, however I have provided the Sample Code so you can host your own. (locally, if you will)
 
 ### The Sample Code
 ```<html>
